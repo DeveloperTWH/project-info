@@ -1,6 +1,18 @@
-Que1. => how many kinds of project while we there ?
+Que1. => how many kinds of products while we there ?
         {like for clothes there will be size , but for like electronics there will be no such things}
 
 Que2. => How many users are expected at launch and after 6 months?
 
 Que3. => One user can own one or more Businesses (Vendor)
+
+Que4. => Multi-user access for business team members. 
+        {will it be role based or just same and if it is role based then what are the roles and responsibilites given in it}
+
+
+3. Low-Level Features  
+Vendor-Side Functionalities:  
+        A. Business Registration & Profile Management  
+        - Sign-up via email, phone, or social media authentication.  
+        - Profile verification via document submission.  
+        - Multi-user access for business team members.  
+        - Business description, address, contact details, website, and social media links. 
