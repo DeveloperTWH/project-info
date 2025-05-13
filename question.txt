@@ -1,0 +1,6 @@
+Que1. => how many kinds of project while we there ?
+        {like for clothes there will be size , but for like electronics there will be no such things}
+
+Que2. => How many users are expected at launch and after 6 months?
+
+Que3. => One user can own one or more Businesses (Vendor)
