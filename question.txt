@@ -16,3 +16,11 @@ Vendor-Side Functionalities:
         - Profile verification via document submission.  
         - Multi-user access for business team members.  
         - Business description, address, contact details, website, and social media links. 
+
+
+can you explain me little bit about loaction based pramotional banner. 7:48
+
+
+Question 5 => why should suscription status of vendor should visible to customer ?
+
+Question 6 => if there is more button on clicking which the list completely shows up then why are there pagination icons at the top? 28:29

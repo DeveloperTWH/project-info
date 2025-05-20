@@ -1,0 +1,118 @@
+const service = {
+    id: 1,
+    title: "Lorem Ipsum Skin & Beauty Care",
+    category: "Skin & Beauty Treatment",
+    rating: 4.8,
+    tags: ["Skin Care", "Skin Treatment"],
+    description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Recusandae harum temporibus dolore exercitationem delectus perspiciatis eos, saepe quo veniam similique ratione dicta repellendus tenetur voluptas tempora! Placeat ipsa, incidunt reiciendis nobis eveniet explicabo? Tempore eos omnis nulla minima aliquam temporibus numquam magni in blanditiis suscipit, ad ea quas obcaecati id.",
+    features: [
+        "Lorem Ipsum Dolor Sit Amet",
+        "Consectetur Adipisicing Elit",
+        "Sed Do Eiusmod Tempor Incididunt",
+    ],
+    services: [
+        { id: 1, name: "Skin Treatment" },
+        { id: 2, name: "Hair Spa" },
+        { id: 3, name: "Massage Therapy" },
+        { id: 4, name: "Laser Hair Removal" },
+    ],
+    bannerImage: "/Service/service_banner.png",
+    galleryImages: [
+        "/Service/service_banner.png",
+        "/Service/service_banner.png",
+        "/Service/service_banner.png",
+        "/Service/service_banner.png",
+        "/Service/service_banner.png",
+        "/Service/service_banner.png",
+    ],
+    amenities: [
+        { label: "Appointment Booking Only", available: true },
+        { label: "Wheelchair Accessible", available: true },
+        { label: "Accepts Credit Card", available: true },
+        { label: "Accessible Parking", available: true },
+        { label: "Accepts Insurance", available: false },
+        { label: "Free Wifi", available: true },
+    ],
+    businessHours: [
+        { day: "MONDAY", hours: "8:00 A.M - 6:00 P.M" },
+        { day: "TUESDAY", hours: "8:00 A.M - 6:00 P.M" },
+        { day: "WEDNESDAY", hours: "8:00 A.M - 6:00 P.M" },
+        { day: "THURSDAY", hours: "8:00 A.M - 6:00 P.M" },
+        { day: "FRIDAY", hours: "8:00 A.M - 6:00 P.M" },
+        { day: "SATURDAY", hours: "8:00 A.M - 6:00 P.M" },
+        { day: "SUNDAY", hours: "CLOSED" },
+    ],
+    locationMapEmbedUrl: "https://www.google.com/maps/embed?...",
+    contact: {
+        phone: "+123 456 7890",
+        email: "loremipsum@gmail.com",
+        address: "Lorem Ipsum",
+        website: "loremipsum.com"
+    },
+    faq: [
+        {
+            question: "Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit",
+            answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            question: "Do you accept walk-ins?",
+            answer: "Currently we offer services by appointment only for the best experience."
+        },
+        {
+            question: "Lorem Ipsum Dolor Sit Amet, Consectetur Adipisicing Elit",
+            answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    ],
+    reviews: [
+        {
+            name: "John Doe",
+            role: "Businessman",
+            rating: 4,
+            comment: "Great service, very friendly staff!",
+            image: ""  // Example path or URL
+        },
+        {
+            name: "John Doe",
+            role: "Businessman",
+            rating: 4,
+            comment: "Great service, very friendly staff!",
+            image: ""  // Example path or URL
+        },
+        {
+            name: "John Doe",
+            role: "Businessman",
+            rating: 4,
+            comment: "Great service, very friendly staff!",
+            image: ""  // Example path or URL
+        },
+        {
+            name: "John Doe",
+            role: "Businessman",
+            rating: 4,
+            comment: "Great service, very friendly staff!",
+            image: ""  // Example path or URL
+        },
+        {
+            name: "John Doe",
+            role: "Businessman",
+            rating: 4,
+            comment: "Great service, very friendly staff!",
+            image: ""  // Example path or URL
+        },
+        {
+            name: "John Doe",
+            role: "Businessman",
+            rating: 4,
+            comment: "Great service, very friendly staff!",
+            image: ""  // Example path or URL
+        },
+        {
+            name: "Jane Smith",
+            role: "Freelancer",
+            rating: 5,
+            comment: "Absolutely loved the facial treatment.",
+            image: ""
+        }
+    ]
+
+};
