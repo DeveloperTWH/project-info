@@ -1,0 +1,23 @@
+thing on which we can difrentiate plans.
+
+1. Product and Service listing priority.
+2. Media upload limiting {specific product and service}
+3. Ai recommendations
+4. Push Notification for Pramotion
+5. Analytics
+    Basic Account     :  Basic sales reports (total sales, number of orders).
+    Standard Account  :  Enhanced sales reports (including top-selling products, basic customer demographics).
+    Premium Plan      :  Advanced Analytics Dashboard providing detailed insights into sales performance, customer behavior, traffic sources, and conversion rates.
+    Platinum Plan     :  Custom Reports & Performance Consulting
+
+
+
+6. Search Visibility	
+7. In-App Advertising
+
+
+Platinum Plan  
+        : vendor listing page priority
+        : product page priority
+        : service page priority
+        : home page featuring
