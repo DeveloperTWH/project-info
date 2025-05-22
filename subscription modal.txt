@@ -1,7 +1,7 @@
 thing on which we can difrentiate plans.
 
 1. Product and Service listing priority.
-2. Media upload limiting {specific product and service}
+2. Product Listing Limit                      //Media upload limiting {specific product and service}
 3. Ai recommendations
 4. Push Notification for Pramotion
 5. Analytics
@@ -16,8 +16,21 @@ thing on which we can difrentiate plans.
 7. In-App Advertising
 
 
-Platinum Plan  
+8. Platinum Plan  
         : vendor listing page priority
         : product page priority
         : service page priority
         : home page featuring
+
+
+9. Product Listing Limit
+
+
+
+
+
+
+{
+
+	Affiliate & Referral Program:  - Vendors earn discounts on subscriptions for referring new businesses. 
+}
