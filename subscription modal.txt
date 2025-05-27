@@ -26,6 +26,9 @@ thing on which we can difrentiate plans.
 9. Product Listing Limit
 
 
+10. limited product and service listing based on plans
+
+
 
 
 
