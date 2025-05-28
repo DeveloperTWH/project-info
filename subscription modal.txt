@@ -37,3 +37,13 @@ thing on which we can difrentiate plans.
 
 	Affiliate & Referral Program:  - Vendors earn discounts on subscriptions for referring new businesses. 
 }
+
+
+11. what will be the payment cycle ? (for vendor : suppose a cusomer buys a product then is the payment will be cllected in mosic biz hub website and then going to the vendor account than what will be the time frame for it ) these culd be also an difrentiating factor in modals
+
+
+
+{
+	Provide estimated delivery times and track shipments.  {it is not possible suppose we have callculated teh avg tim eof 2 days but the delivery wil be done by vendor he can take more time then 
+}
+
